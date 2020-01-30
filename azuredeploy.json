@@ -219,7 +219,7 @@
                         "hostType": "Standard"
                     },
                     {
-                        "name": "[concat(parameters('site_host_name'), '-', 'dev','.scm.azurewebsites.net')]",
+                        "name": "[concat(parameters('site_host_name'), '-', 'dev','.azurewebsites.net')]",
                         "sslState": "Disabled",
                         "virtualIP": null,
                         "thumbprint": null,
